@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+.main-container{
+	background-color:hsl(0 0% 95%);
+	padding:48px 32px;
+}
+.Testimonial{
+	padding:4px 16px;
+	border:1px solid hsl(0 0% 80%);
+	background-color:white;
+	margin-block:16px;
+}
+.author{
+	text-align:right;
+}
